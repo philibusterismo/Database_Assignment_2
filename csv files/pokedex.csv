@@ -1,0 +1,152 @@
+dex_number,name,type_1,type_2,hp,attack,defense,special_attack,special_defense,speed,ability_1,ability_2,ability_3,evolves_into,height,weight,species
+1,Bulbasaur,Grass,Poison,45,49,49,65,65,45,Overgrow,Cholorophyll,NULL,2,0.7,6.9,Seed Pokémon
+2,Ivysaur,Grass,Poison,60,62,63,80,80,60,Overgrow,Cholorophyll,NULL,3,1,13,Seed Pokémon
+3,Venusaur,Grass,Poison,80,82,83,100,100,80,Overgrow,Cholorophyll,NULL,NULL,2,100,Seed Pokémon
+4,Charmander,Fire,NULL,39,52,43,60,50,65,Blaze,Solar Power,NULL,5,0.6,8.5,Lizard Pokémon
+5,Charmeleon,Fire,NULL,58,64,58,80,65,80,Blaze,Solar Power,NULL,6,1.1,19,Flame Pokémon
+6,Charizard,Fire,Flying,78,84,78,109,85,100,Blaze,Solar Power,NULL,NULL,1.7,90.5,Flame Pokémon
+7,Squirtle,Water,NULL,44,48,65,50,64,43,Torrent,Rain Dish,NULL,8,0.5,9,Tiny Turtle Pokémon
+8,Wartortle,Water,NULL,59,63,80,65,80,58,Torrent,Rain Dish,NULL,9,1,22.5,Turtle Pokémon
+9,Blastoise,Water,NULL,79,83,100,85,105,78,Torrent,Rain Dish,NULL,NULL,1.6,85.5,Shellfish Pokémon
+10,Caterpie,Bug,NULL,45,30,35,20,20,45,Shield Dust,Run Away,NULL,11,0.3,2.9,Worm Pokémon
+11,Metapod,Bug,NULL,50,20,55,25,25,30,Shed Skin,NULL,NULL,12,0.7,9.9,Cocoon Pokémon
+12,Butterfree,Bug,Flying,60,45,50,90,80,70,Compoundeyes,Tinted Lens,NULL,NULL,1.1,32,Butterfly Pokémon
+13,Weedle,Bug,Poison,40,35,30,20,20,50,Shield Dust,Run Away,NULL,14,0.3,3.2,Hairy Bug Pokémon
+14,Kakuna,Bug,Poison,45,25,50,25,25,35,Shed Skin,NULL,NULL,15,0.6,10,Cocoon Pokémon
+15,Beedrill,Bug,Poison,65,90,40,45,80,75,Swarm,Sniper,NULL,NULL,1,29.5,Poison Bee Pokémon
+16,Pidgey,Normal,Flying,40,45,40,35,35,56,Keen Eye,Tangled Feet ,Big Pecks,17,0.3,1.8,Tiny Bird Pokémon
+17,Pidgeotto,Normal,Flying,63,60,55,50,50,71,Keen Eye,Tangled Feet ,Big Pecks,18,1.1,30,Bird Pokémon
+18,Pidgeot,Normal,Flying,83,80,75,70,70,101,Keen Eye,Tangled Feet ,Big Pecks,NULL,1.5,39.5,Bird Pokémon
+19,Rattata,Normal,NULL,30,56,35,25,35,72,Run Away,Guts,Hustle,20,0.3,3.5,Mouse Pokémon
+20,Raticate,Normal,NULL,55,81,60,50,70,97,Run Away,Guts,Hustle,NULL,0.7,18.5,Mouse Pokémon
+21,Spearow,Normal,Flying,40,60,30,31,31,70,Keen Eye,Sniper,NULL,22,0.3,2,Tiny Bird Pokémon
+22,Fearow,Normal,Flying,65,90,65,61,61,100,Keen Eye,Sniper,NULL,NULL,1.2,38,Beak Pokémon
+23,Ekans,Poison,NULL,35,60,44,40,54,55,Intimidate,Shed Skin,Unnerve,24,2,6.9,Snake Pokémon
+24,Arbok,Poison,NULL,60,95,69,65,79,80,Intimidate,Shed Skin,Unnerve,NULL,3.5,65,Cobra Pokémon
+25,Pikachu,Electric,NULL,35,55,40,50,50,90,Static,Lightning Rod,NULL,26,0.4,6,Mouse Pokémon
+26,Raichu,Electric,NULL,60,90,55,90,80,110,Static,Lightning Rod,NULL,NULL,0.8,30,Mouse Pokémon
+27,Sandshrew,Ground,NULL,50,75,85,20,30,40,Sand Veil,Sand Rush,NULL,28,0.6,12,Mouse Pokémon
+28,Sandslash,Ground,NULL,75,100,110,45,55,65,Sand Veil,Sand Rush,NULL,NULL,1,29.5,Mouse Pokémon
+29,Nidoran (F),Poison,NULL,55,47,52,40,40,41,Poison Point,Rivalry,Hustle,30,0.4,7,Poison Pin Pokémon
+30,Nidorina,Poison,NULL,70,62,67,55,55,56,Poison Point,Rivalry,Hustle,31,0.8,20,Poison Pin Pokémon
+31,Nidoqueen,Poison,Ground,90,92,87,75,85,76,Poison Point,Rivalry,Sheer Force,NULL,1.3,60,Drill Pokémon
+32,Nidoran (M),Poison,NULL,55,47,52,40,40,41,Poison Point,Rivalry,Hustle,33,0.5,9,Poison Pin Pokémon
+33,Nidorino,Poison,NULL,70,62,67,55,55,56,Poison Point,Rivalry,Hustle,34,0.9,19.5,Poison Pin Pokémon
+34,Nidoking,Poison,Ground,90,92,87,75,85,76,Poison Point,Rivalry,Sheer Force,NULL,1.4,62,Drill Pokémon
+35,Clefairy,Fairy,NULL,70,45,48,60,65,35,Cute Charm,Magic Guard,Friend Guard,37,0.6,7.5,Fairy Pokémon
+36,Clefable,Fairy,NULL,95,70,73,95,90,60,Cute Charm,Magic Guard,Unaware,NULL,1.3,40,Fairy Pokémon
+37,Vulpix,Fire,NULL,38,41,40,50,65,65,Flash Fire,Drought,NULL,38,0.6,9.9,Fox Pokémon
+38,Ninetales,Fire,NULL,73,76,75,81,100,100,Flash Fire,Drought,NULL,NULL,1.1,19.9,Fox Pokémon
+39,Jigglypuff,Normal,Fairy,115,45,20,45,25,20,Cute Charm,Competitive,Friend Guard,40,0.5,5.5,Balloon Pokémon
+40,Wigglytuff,Poison,Fairy,140,70,45,85,50,45,Cute Charm,Competitive,Frisk,NULL,1,12,Balloon Pokémon
+41,Zubat,Poison,Flying,40,45,35,30,40,55,Inner Focus,Infiltrator,NULL,42,0.8,7.5,Bat Pokémon
+42,Golbat,Poison,Flying,75,80,70,65,75,90,Inner Focus,Infiltrator,NULL,NULL,1.5,55,Bat Pokémon
+43,Oddish,Grass,Poison,45,50,55,75,65,30,Chlorophyll,Run Away,NULL,44,0.5,5.4,Weed Pokémon
+44,Gloom,Grass,Poison,60,65,70,85,75,40,Chlorophyll,Stench,NULL,45,0.8,8.6,Weed Pokémon
+45,Vileplume,Grass,Poison,75,80,85,110,90,50,Chlorophyll,Effect Spore,NULL,NULL,1.2,18.6,Flower Pokémon
+46,Paras,Bug,Grass,35,70,55,45,55,25,Effect Spore,Dry Skin,Damp,47,0.3,5.4,Mushroom Pokémon
+47,Parasect,Bug,Grass,60,95,80,60,80,30,Effect Spore,Dry Skin,Damp,NULL,1,29.5,Mushroom Pokémon
+48,Venonat,Bug,Poison,60,55,50,40,55,45,Compoundeyes,Tinted Lens,Run Away,49,1,30,Insect Pokémon
+49,Venomoth,Bug,Poison,70,65,60,90,75,90,Shield Dust,Tinted Lens,Wonder Skin,NULL,1.5,12.5,Poison Moth Pokémon
+50,Diglett,Ground,NULL,10,55,25,35,45,95,Sand Veil,Arena Trap,Sand Force,51,0.2,0.8,Mole Pokémon
+51,Dugtrio,Ground,NULL,35,100,50,50,70,120,Sand Veil,Arena Trap,Sand Force,NULL,0.7,33.3,Mole Pokémon
+52,Meowth,Normal,NULL,40,45,35,40,40,90,Pickup,Technician,Unnerve,53,0.4,4.2,Scratch Cat Pokémon
+53,Persian,Normal,NULL,65,70,60,65,65,115,Limber,Technician,Unnerve,NULL,1,32,Classy Cat Pokémon
+54,Psyduck,Water,NULL,50,52,48,65,50,55,Damp,Cloud Nine,Swift Swim,55,0.8,19.6,Duck Pokémon
+55,Golduck,Water,NULL,80,82,78,95,80,85,Damp,Cloud Nine,Swift Swim,NULL,1.7,76.6,Duck Pokémon
+56,Mankey,Fighting,NULL,40,80,35,35,45,70,Vital Spirit,Anger Point,Defiant,57,0.5,28,Pig Monkey Pokémon
+57,Primeape,Fighting,NULL,65,105,60,60,70,95,Vital Spirit,Anger Point,Defiant,NULL,1,32,Pig Monkey Pokémon
+58,Growlithe,Fire,NULL,55,70,45,70,50,60,Intimidate,Flash Fire,Justified,58,0.7,19,Puppy Pokémon
+59,Arcanine,Fire,NULL,90,110,80,100,80,95,Intimidate,Flash Fire,Justified,NULL,1.9,155,Legendary Pokémon
+60,Poliwag,Water,NULL,40,50,40,40,40,90,Water Absord,Damp,Swift Swim,61,0.6,12.4,Tadpole Pokémon
+61,Poliwhirl,Water,NULL,65,65,65,50,50,90,Water Absord,Damp,Swift Swim,62,1,20,Tadpole Pokémon
+62,Poliwrath,Water,Fighting,90,95,95,70,90,70,Water Absord,Damp,Swift Swim,NULL,1.3,54,Tadpole Pokémon
+63,Abra,Psychic,NULL,25,20,15,105,55,90,Synchronize,Inner Focus,Magic Guard,64,0.9,19.5,Psi Pokémon
+64,Kadabra,Psychic,NULL,40,35,30,120,70,105,Synchronize,Inner Focus,Magic Guard,65,1.3,56.5,Psi Pokémon
+65,Alakazam,Psychic,NULL,55,50,45,135,95,120,Synchronize,Inner Focus,Magic Guard,NULL,1.5,48,Psi Pokémon
+66,Machop,Fighting,NULL,70,80,50,35,35,35,Guts,No Guard,Steadfast,67,0.8,19.5,Superpower Pokémon
+67,Machoke,Fighting,NULL,80,100,70,50,60,45,Guts,No Guard,Steadfast,68,1.5,70.5,Superpower Pokémon
+68,Machamp,Fighting,NULL,90,130,80,65,85,55,Guts,No Guard,Steadfast,NULL,1.6,130,Superpower Pokémon
+69,Bellsprout,Grass,Poison,50,75,35,70,30,40,Chlorophyll,Gluttony,NULL,70,0.7,4,Flower Pokémon
+70,Weepinbell,Grass,Poison,65,90,50,85,45,55,Chlorophyll,Gluttony,NULL,71,1,6.4,Flycatcher Pokémon
+71,Victreebel,Grass,Poison,80,105,65,100,70,70,Chlorophyll,Gluttony,NULL,NULL,1.7,15.5,Flycatcher Pokémon
+72,Tentacool,Water,Poison,40,40,35,50,100,70,Clear Body,Liquid Ooze,Rain Dish,73,0.9,45.5,Jellyfish Pokémon
+73,Tentacruel,Water,Poison,80,70,65,80,120,100,Clear Body,Liquid Ooze,Rain Dish,NULL,1.6,55,Jellyfish Pokémon
+74,Geodude,Rock,Ground,40,80,100,30,30,20,Rock Head,Sturdy,Sand Veil,75,0.4,20,Rock Pokémon
+75,Graveler,Rock,Ground,55,95,115,45,45,35,Rock Head,Sturdy,Sand Veil,76,1,105,Rock Pokémon
+76,Golem,Rock,Ground,80,120,130,55,65,45,Rock Head,Sturdy,Sand Veil,NULL,1.4,300,Megaton Pokémon
+77,Ponyta,Fire,NULL,50,85,55,65,65,90,Run Away,Flash Fire,Flame Body,78,1,30,Fire Horse Pokémon
+78,Rapidash,Fire,NULL,65,100,70,80,80,105,Run Away,Flash Fire,Flame Body,NULL,1.7,95,Fire Horse Pokémon
+79,Slowpoke,Water,Psychic,90,65,65,40,40,15,Oblivious,Own Tempo,Regenerator,80,1.2,36,Dopey Pokémon
+80,Slowbro,Water,Psychic,95,75,110,100,80,30,Oblivious,Own Tempo,Regenerator,NULL,1.6,78.5,Hermit Crab Pokémon
+81,Magnemite,Electric,Steel,25,35,70,95,55,45,Magnet Pull,Sturdy,Analytic,82,0.3,6,Magnet Pokémon
+82,Magneton,Electric,Steel,50,60,95,120,70,70,Magnet Pull,Sturdy,Analytic,NULL,1,60,Magnet Pokémon
+83,Farfetch'd,Normal,Flying,52,90,55,58,62,60,Keen Eye,Inner Focus,Defiant,NULL,0.8,15,Wild Duck Pokémon
+84,Doduo,Normal,Flying,35,85,45,35,35,75,Run Away,Early Bird,Tangled Feet,85,1.4,39.2,Twin Bird Pokémon
+85,Dodrio,Normal,Flying,60,110,70,60,60,110,Run Away,Early Bird,Tangled Feet,NULL,1.8,85.2,Triple Bird Pokémon
+86,Seel,Water,NULL,65,45,55,45,70,45,Thick Fat,Hydration,Ice Body,87,1.1,90,Sea Lion Pokémon
+87,Dewgong,Water,Ice,90,70,80,70,95,70,Thick Fat,Hydration,Ice Body,NULL,1.7,120,Sea Lion Pokémon
+88,Grimer,Poison,NULL,80,80,50,40,50,25,Stench,Sticky Hold,Poison Touch,89,0.9,30,Sludge Pokémon
+89,Muk,Poison,NULL,105,105,75,65,100,50,Stench,Sticky Hold,Poison Touch,NULL,1.2,30,Sludge Pokémon
+90,Shellder,Water,NULL,30,65,100,45,25,40,Shell Armor,Skill Link,Overcoat,91,0.3,4,Bivalve Pokémon
+91,Cloyster,Water,Ice,50,95,180,85,45,70,Shell Armor,Skill Link,Overcoat,NULL,1.5,132.5,Bivalve Pokémon
+92,Gastly,Ghost,Poison,30,35,30,100,35,80,Levitate,NULL,NULL,93,1.3,0.1,Gas Pokémon
+93,Haunter,Ghost,Poison,45,50,45,115,55,95,Levitate,NULL,NULL,94,1.6,0.1,Gas Pokémon
+94,Gengar,Ghost,Poison,60,65,60,130,75,110,Cursed Body,NULL,NULL,NULL,1.5,40.5,Shadow Pokémon
+95,Onix,Rock,Ground,35,45,160,30,45,70,Rock Head,Sturdy,Weak Armor,NULL,8.8,210,Rock Snake Pokémon
+96,Drowzee,Psychic,NULL,60,48,45,43,90,42,Insomnia,Forewarm,Inner Focus,97,1,32.4,Hypnosis Pokémon
+97,Hypno,Psychic,NULL,85,73,70,73,115,67,Insomnia,Forewarm,Inner Focus,NULL,1.6,75.6,Hypnosis Pokémon
+98,Krabby,Water,NULL,30,105,90,25,25,50,Hyper cutter,Shell Armor,Sheer Force,99,0.4,6.5,River Crab Pokémon
+99,Kingler,Water,NULL,55,130,115,50,50,75,Hyper cutter,Shell Armor,Sheer Force,NULL,1.3,60,Pincer Pokémon
+100,Voltorb,Electric,NULL,40,30,50,55,55,100,Soundproof,Static,Aftermath,101,0.5,10.4,Ball Pokémon
+101,Electrode,Electric,NULL,60,50,70,80,80,150,Soundproof,Static,Aftermath,NULL,1.2,66.6,Ball Pokémon
+102,Exeggcute,Grass,Psychic,60,40,80,60,45,40,Chlorophyll,Harvest,NULL,103,0.4,2.5,Egg Pokémon
+103,Exeggutor,Grass,Psychic,95,95,85,125,75,55,Chlorophyll,Harvest,NULL,NULL,2,120,Coconut Pokémon
+104,Cubone,Ground,NULL,50,50,95,40,50,35,Rock Head,Lightning Rod,Battle Armor,105,0.4,6.5,Lonely Pokémon
+105,Marowak,Ground,NULL,60,80,110,50,80,45,Rock Head,Lightning Rod,Battle Armor,NULL,1,45,Bone Keeper Pokémon
+106,Hitmonlee,Fighting,NULL,50,120,53,35,110,87,Limber,Reckless,Unburden,NULL,1.5,49.8,Kicking Pokémon
+107,Hitmonchan,Fighting,NULL,50,105,79,35,110,76,Keen Eye,Iron Fist,Inner Focus,NULL,1.4,50.2,Punching Pokémon
+108,Lickitung,Normal,NULL,90,55,75,60,75,30,Own Tempo,Oblivious,Cloud Nine,NULL,1.2,65.5,Licking Pokémon
+109,Koffin,Poison,NULL,40,65,95,60,45,35,Levitate,Neutralizing Gas,Stench,110,0.6,1,Poison Gas Pokémon
+110,Weezing,Poison,NULL,65,90,120,85,70,60,Levitate,Neutralizing Gas,Stench,NULL,1.2,9.5,Poison Gas Pokémon
+111,Rhyhorn,Ground,Rock,80,85,95,30,30,25,Lightning Rod,Rock Head,Reckless,112,1,115,Spikes Pokémon
+112,Rhydon,Ground,Rock,105,130,120,45,45,40,Lightning Rod,Rock Head,Reckless,NULL,1.9,120,Drill Pokémon
+113,Chansey,Normal,NULL,250,5,5,35,105,50,Natural Cure,Serene Grace,Healer,NULL,1.1,34.6,Egg Pokémon
+114,Tangela,Grass,NULL,65,55,115,100,40,60,Chlorophyll,Leaf Guard,Regenerator,NULL,1,35,Vine Pokémon
+115,Kangaskhan,Normal,NULL,105,95,80,40,80,90,Early Bird,Scrappy,Inner Focus,NULL,2.2,80,Parent Pokémon
+116,Horsea,Water,NULL,30,40,70,70,25,60,Swift Swim,Sniper,Damp,117,0.4,8,Dragon Pokémon
+117,Seadra,Water,NULL,55,65,95,95,45,85,Poison Point,Sniper,Damp,NULL,1.2,25,Dragon Pokémon
+118,Goldeen,Water,NULL,45,67,60,35,50,63,Swift Swim,Water Veil,Lightning Rod,119,0.6,15,Goldfish Pokémon
+119,Seaking,Water,NULL,80,92,65,65,80,68,Swift Swim,Water Veil,Lightning Rod,NULL,1.3,39,Goldfish Pokémon
+120,Staryu,Water,NULL,30,45,55,70,55,85,Illuminate,Natural Cure,Analytic,121,0.8,34.5,Star Shape Pokémon
+121,Starmie,Water,Psychic,60,75,85,100,85,115,Illuminate,Natural Cure,Analytic,NULL,1.1,80,Mysterious Pokémon
+122,Mr. Mime,Psychic,Fairy,40,45,65,100,120,90,Soundproof,Filter,Technician,NULL,1.3,54.5,Barrier Pokémon
+123,Scyther,Bug,Flying,70,110,80,55,80,105,Swarm,Technician,Steadfast,NULL,1.5,56,Mantis Pokémon
+124,Jynx,Ice,Psychic,65,50,35,115,95,95,Oblivious,Forewarm,Dry Skin,NULL,1.4,40.6,Human Shape Pokémon
+125,Electabuzz,Electric,NULL,65,83,57,95,85,105,Static,Vital Spirit,NULL,NULL,1.1,30,Electric Pokémon
+126,Magmar,Fire,NULL,65,95,57,100,85,93,Flame Body,Vital Spirit,NULL,NULL,1.3,44.5,Spitfire Pokémon
+127,Pinsir,Bug,NULL,65,125,100,55,70,85,Hyper cutter,Mold Breaker,Moxie,NULL,1.5,55,Stag Beetle Pokémon
+128,Tauros,Normal,NULL,75,100,95,40,70,110,Intimidate,Anger Point,Sheer Force,NULL,1.4,88.4,Wild Bull Pokémon
+129,Magikarp,Water,NULL,20,10,55,15,20,80,Swift Swim,Rattled,NULL,130,0.9,10,Fish Pokémon
+130,Gyarados,Water,Flying,95,125,79,60,100,81,Intimidate,Moxie,NULL,NULL,6.5,235,Atrocious Pokémon
+131,Lapras,Water,Ice,130,85,80,85,95,60,Water Absord,Shell Armor,Hydration,NULL,2.5,220,Transport Pokémon
+132,Ditto,Normal,NULL,48,48,48,48,48,48,Limber,Imposter,NULL,NULL,0.3,4,Transform Pokémon
+133,Eevee,Normal,NULL,55,55,50,45,65,55,Run Away,Adaptability,Anticipation,134,0.3,6.5,Evolution Pokémon
+134,Vaporeon,Water,NULL,130,65,60,110,95,65,Water Absord,Hydration,NULL,NULL,1,29,Bubble Jet Pokémon
+135,Jolteon,Electric,NULL,65,65,60,110,95,130,Volt Absorb,Quick Feet,NULL,NULL,0.8,24.5,Lightning Pokémon
+136,Flareon,Fire,NULL,65,130,60,95,110,65,Flash Fire,Guts,NULL,NULL,0.9,25,Flame Pokémon
+137,Porygon,Normal,NULL,65,60,70,85,75,40,Trace,Download,Analytic,NULL,0.8,36.5,Virtual Pokémon
+138,Omanyte,Rock,Water,35,40,100,90,55,35,Swift Swim,Shell Armor,Weak Armor,139,0.4,7.5,Spiral Pokémon
+139,Omastar,Rock,Water,70,60,125,115,70,55,Swift Swim,Shell Armor,Weak Armor,NULL,1,35,Spiral Pokémon
+140,Kabuto,Rock,Water,30,80,90,55,45,55,Swift Swim,Battle Armor,Weak Armor,141,0.5,11.5,Shellfish Pokémon
+141,Kabutops,Rock,Water,60,115,105,65,70,80,Swift Swim,Battle Armor,Weak Armor,NULL,1.3,40.5,Shellfish Pokémon
+142,Aerodactyl,Rock,Flying,80,105,65,60,75,130,Rock Head,Pressure,Unnerve,NULL,1.8,59,Fossil Pokémon
+143,Snorlax,Normal,NULL,160,110,65,65,110,30,Immunity,Thick Fat,Gluttony,NULL,2.1,460,Sleeping Pokémon
+144,Articuno,Ice,Flying,90,85,100,95,125,85,Pressure,Snow Cloak,NULL,NULL,1.7,55.4,Freeze Pokémon
+145,Zapdos,Electric,Flying,90,90,85,125,90,100,Pressure,Static,NULL,NULL,1.6,52.6,Electric Pokémon
+146,Moltres,Fire,Flying,90,100,90,125,85,90,Pressure,Flame Body,NULL,NULL,2,60,Flame Pokémon
+147,Dratini,Dragon,NULL,41,64,45,50,50,50,Shred Skin ,Marvel Scale,NULL,NULL,1.8,3.3,Dragon Pokémon
+148,Dragonair,Dragon,NULL,61,84,65,70,70,70,Shred Skin ,Marvel Scale,NULL,NULL,4,16.5,Dragon Pokémon
+149,Dragonite,Dragon,Flying,91,134,95,100,100,80,Inner Focus,Multiscale,NULL,NULL,2.2,210,Dragon Pokémon
+150,Mewtwo,Psychic,NULL,106,110,90,154,90,130,Pressure,Unnerve,NULL,NULL,2,122,Genetic Pokémon
+151,Mew,Psychic,NULL,100,100,100,100,100,100,Synchronize,NULL,NULL,NULL,0.4,4,New Species Pokémon
